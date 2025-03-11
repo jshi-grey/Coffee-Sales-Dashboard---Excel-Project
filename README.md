@@ -1,8 +1,6 @@
 # Coffee-Sales-Dashboard---Excel-Project
 This project is an end-to-end Excel-based analysis of coffee sales data sourced from Kaggle. It involves data cleaning, transformation, and visualization using pivot tables, charts, and interactive dashboard elements. The final dashboard lets users explore sales trends, top customers, and country-wise performance with filters and slicers.
 
-# Coffee Sales Dashboard - Excel Project
-
 ## 📌 Project Overview
 
 This project focuses on analyzing coffee sales data and creating an interactive Excel dashboard to visualize key insights. The dataset is sourced from Kaggle and has been cleaned, transformed, and structured using Excel formulas and pivot tables.
