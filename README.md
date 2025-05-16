@@ -100,5 +100,3 @@ The dataset consists of three key tables:
 
 If you have any suggestions or improvements, feel free to open an issue or fork the repository!
 
-📬 Reach out via [GitHub](https://github.com/yourusername) 🚀
-
